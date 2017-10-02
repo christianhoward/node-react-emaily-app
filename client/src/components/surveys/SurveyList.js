@@ -30,7 +30,7 @@ class SurveyList extends Component {
         return (
             <div>
                 {this.renderSurveys()}
-            </div>
+            </div> 
         );
     };
 }
