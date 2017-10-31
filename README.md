@@ -5,8 +5,8 @@ The email application allows users to login (using OAUTH through Google) to send
 
 ## Future Features
 I would like to build off of this tutorial and add the following features and changes to it:
-* Improve survey list design
-* Option to delete surveys that have been created
+* ~~Improve survey list design~~
+* ~~Option to delete surveys that have been created~~
 * Allow users to specify the from field
 * Allow client side sorting of surveys
 
